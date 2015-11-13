@@ -30,3 +30,5 @@ install cython - pip install cython
 
 https://github.com/amiller/libfreenect-goodies.git test the freenect code from here
 
+install numpy using brew - brew install numpy 
+install pygram using brew - brew isntall pygame
