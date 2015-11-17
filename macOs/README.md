@@ -6,3 +6,8 @@ Here are the links I will be following:
 Things needed to get started:
 1. Mac Ports
 2. Xcode
+
+Links to look out for:
+1. http://blog.mackerron.com/2012/02/03/depthcam-webkinect/
+2.http://metaduck.com/09-kinect-browser-node.html
+3. https://www.cubeslam.com/dnyibm
